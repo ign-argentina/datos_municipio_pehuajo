@@ -1,0 +1,59 @@
+{
+  "table": {
+    "isActive": false,
+    "rowsLimit": 5
+  },
+  "charts": {
+    "isActive": false
+  },
+  "metaTags": {
+    "title": "",
+    "description": "",
+    "image": ""
+  },
+  "analytics_ids": ["G-YY8394DZ3Y"],
+  "excluded_plugins": ["minimap"],
+  "mapConfig": {
+    "center": {
+      "latitude": -35.910758,
+      "longitude": -61.933611
+    },
+    "zoom": {
+      "initial": 9,
+      "min": 3,
+      "max": 21
+    }
+  },
+  "showSearchBar": false,
+  "referencias": {
+    "show": true,
+    "src": "src/styles/images/referencias_icono.png",
+    "width":"25px",
+    "height":"31px"
+  },
+  "theme": {
+    "bodyBackground": "#5D8F47",
+    "headerBackground": "#5D8F47",
+    "menuBackground": "#5D8F47",
+    "activeLayer": "#33b560",
+    "textMenu":"white",
+    "textMenuStyle":"",
+    "textLegendMenu":"#dddddd",
+    "textLegendMenuStyle":"",
+    "iconBar":"#304a24"
+    },
+  "logo": {
+    "title":"Municipalidad de Pehuajó",
+    "src": "src/config/styles/images/logo.png",
+    "height": "70px",
+    "width": "",
+    "style": "",
+    "srcLogoMini": "src/config/styles/images/logo.png",
+    "miniHeight": "70px",
+    "miniWidth": "",
+    "ministyle": ""
+  },
+  "title": "Municipalidad de Pehuajó",
+  "website": "http://www.pehuajo.gob.ar/",
+  "favicon": "src/config/styles/images/favicon.ico"
+}
